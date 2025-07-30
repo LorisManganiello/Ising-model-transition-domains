@@ -1,3 +1,9 @@
+![status](https://img.shields.io/badge/status-completed-brightgreen)
+![language](https://img.shields.io/badge/language-Python-blue)
+![lines](https://img.shields.io/badge/lines-100%2B-brightgreen)
+![last-commit](https://img.shields.io/github/last-commit/LorisManganiello/Ising-model)
+
+
 # Ising Model e Transizioni di Dominio
 
 ## Obiettivo
