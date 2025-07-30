@@ -1,7 +1,7 @@
-![status](https://img.shields.io/badge/status-completed-brightgreen)
-![language](https://img.shields.io/badge/language-Python-blue)
-![lines](https://img.shields.io/badge/lines-100%2B-yellow)
-
+![status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![language](https://img.shields.io/badge/çanguage-Python-blue)
+![lines](https://img.shields.io/badge/Lines-100%2B-yellow)
+![ining](https://img.shields.io/badge/Project-Ising-red)
 
 # Ising Model e Transizioni di Dominio
 
